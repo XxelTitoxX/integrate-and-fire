@@ -26,16 +26,16 @@ the spike times.
 - Matplotlib  
 
 Install dependencies with:
-    ```bash
+```bash
     pip install numpy matplotlib
-    ```
+```
 
 ## How to Run
 
 Run the simulation script:
-    ```bash
+```bash
     python simulation.py
-    ```
+```
 
 This will generate a plot showing the membrane potential over time and the spike
 events.
